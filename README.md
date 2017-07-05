@@ -8,3 +8,6 @@ npm install
 
 gulp
 
+Technical:
+- framework phaser
+
